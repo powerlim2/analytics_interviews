@@ -48,8 +48,7 @@ FROM (
   GROUP BY target_id 
   ) ORI
   LEFT JOIN (
-    SELECT
-      content_id, content_type
+    SELECT content_id, content_type
     FROM content_action
     GROUP BY content_id, content_type
   ) STR
