@@ -11,7 +11,8 @@
 	* content_type (status_update, photo, share, comment)
 	* target_id (in the case of comment, this is the content_id of the original story)
 
-* Examples: Forum RSS feeds, Facebook feeds, Tweets, etc.
+
+Examples: Forum RSS feeds, Facebook feeds, Tweets, etc.
 
 
 ## Find the distribution of comments per unique original story?
