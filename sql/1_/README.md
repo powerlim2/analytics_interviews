@@ -36,31 +36,24 @@
 ```SQL
 SELECT
   STR.content_type as Original_Story_Type,
-  ORI.num_coments_for_post as Comment_Count, 
-  count(*) as Number_of_Stories
+  ORI.num_comments_for_post as Comment_Count, 
+  count(*) as number_of_stories
 FROM (
   SELECT
-    target_id, count(*) num_comments_for_post
-  FROM
-    content_action
-  WHERE
-    target_id IS NOT NULL
-  GROUP BY
-    target_id ) ORI
+    target_id, 
+    count(*) as num_comments_for_post
+  FROM content_action
+  WHERE target_id IS NOT NULL
+  GROUP BY target_id 
+  ) ORI
   LEFT JOIN (
     SELECT
-      content_id, 
-      content_type
-    FROM
-      content_action
-    GROUP BY
-      content_id,
-      content_type
+      content_id, content_type
+    FROM content_action
+    GROUP BY content_id, content_type
   ) STR
   ON ORI.target_id = STR.content_id
-GROUP BY
-  Original_Story_Type, Comment_Count
-ORDER BY 
-  Number_of_Stories DESC
+GROUP BY Original_Story_Type, Comment_Count
+ORDER BY number_of_stories DESC
 ```
 
