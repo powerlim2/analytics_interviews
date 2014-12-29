@@ -54,5 +54,5 @@ if __name__ == "__main__":
     main()
 ```
 
-- import: __name__ == "Math" (module's filename: Math.py).
-- direct run: __name__ == "__main__"
+- import: `__name__ == "Math"` (module's filename: Math.py).
+- direct run: `__name__ == "__main__"`
