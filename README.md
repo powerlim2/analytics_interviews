@@ -1,13 +1,30 @@
-Analytics Interviews
-====================
+Analytics Interview Questions
+=============================
 
-This is a repository for all analytics interview questions for data scientist, statistical analysts, data mining SME positions.
-Questions here are gathered from those that I received from interviewing numerous analytics positions and those that 
-I prepared for interviewing candidates.
+This is an archive for technical interview questions for analytics/ data science positions.
 
 
-## List of Questions
+## Programming Questions
 
-* **SQL**
-    1. Find the distribution of comments per unique original story?
+### SQL
 
+1. (Facebook) Find the distribution of comments per unique original story?
+
+### Python (general)
+
+1. Slicing a list
+2. Integer division
+3. Empty list as a default argument
+4. Inheritance (OOP)
+5. Closure and Binding (FP)
+6. List operation: reference
+7. `range()` vs. `xrange()`
+8. Writing a module
+9. Basic file IO
+
+### Python (algorithm)
+
+1. Calculating a factorial of value n (Recursive Algorithm)
+2. Calculating a Fibonacci sequence value of position n (Recursive Algorithm)
+3. Iteratively calculating a Fibonacci sequence to the infinite (Python Generator)
+4. Converting a recursive Fibonacci sequence algorithm to an iterative algorithm (Loop)

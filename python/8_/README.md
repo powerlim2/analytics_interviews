@@ -1,4 +1,4 @@
-# Python Programming Interivew Question 8
+# Python Programming Interview Question 8
 
 ### Question About Writing A Module:
 

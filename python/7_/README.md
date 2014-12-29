@@ -1,4 +1,4 @@
-# Python Programming Interivew Question 7
+# Python Programming Interview Question 7
 
 ### Question:
 

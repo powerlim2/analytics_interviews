@@ -1,4 +1,4 @@
-# Python Programming Interivew Question 4
+# Python Programming Interview Question 4
 
 ### OOP Question:
 

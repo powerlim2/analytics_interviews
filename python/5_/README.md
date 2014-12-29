@@ -1,4 +1,4 @@
-# Python Programming Interivew Question 5
+# Python Programming Interview Question 5
 
 ### Functional Programming (closure) Question:
 

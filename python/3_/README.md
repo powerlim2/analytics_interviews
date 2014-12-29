@@ -1,10 +1,10 @@
-# Python Programming Interivew Question 3
+# Python Programming Interview Question 3
 
 ### Question:
 
 **What will be the output of the code below?**
 
-Description: We are trying to build a function to extend a list (if exsits) by adding one item. If list is not predefined, it will generate a list with the specified 1 item. (Assume that you are using Python 2.7)
+Description: We are trying to build a function to extend a list (if exists) by adding one item. If list is not predefined, it will generate a list with the specified 1 item. (Assume that you are using Python 2.7)
 
 ```python
 def extendList(val, list=[]):
