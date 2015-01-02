@@ -3,8 +3,8 @@ Algorithm Question In Python
 
 ## Question:
 
-Given a **sorted array** with some sequenced numbers and some non-sequenced numbers.
-Write an algorithm that takes this array as an input and returns a list of (start, end) of all consecutive numbers.
+Given a **sorted array list** with some sequenced numbers and some non-sequenced numbers.
+Write an algorithm that takes this array list as an input and returns a list of (start, end) of all consecutive numbers.
 
 Assumption:
 

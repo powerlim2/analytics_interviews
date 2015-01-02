@@ -7,8 +7,8 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420158096687" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420158076787" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420158131242" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420158192119" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +135,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Algorithm/7_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.30279502">
+            <state line="5" column="27" selection-start="100" selection-end="100" vertical-scroll-proportion="0.11645963">
               <folding />
             </state>
           </provider>
@@ -501,7 +501,11 @@
       <created>1420158099475</created>
       <updated>1420158099475</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changes in description">
+      <created>1420158133801</created>
+      <updated>1420158133801</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -737,7 +741,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.30279502">
+        <state line="5" column="27" selection-start="100" selection-end="100" vertical-scroll-proportion="0.11645963">
           <folding />
         </state>
       </provider>
