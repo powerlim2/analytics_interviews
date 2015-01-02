@@ -3,13 +3,13 @@ Algorithm Question In Python
 
 ## Question:
 
-Given a **sorted array list** with some sequenced numbers and some non-sequenced numbers.
-Write an algorithm that takes this array list as an input and returns a list of (start, end) of all consecutive numbers.
+Given a **sorted ArrayList** with some sequenced numbers and some non-sequenced numbers.
+Write an algorithm that takes this ArrayList as an input and returns a list of (start, end) of all consecutive numbers.
 
 Assumption:
 
 1. Consecutive numbers have difference of 1 only.
-2. There are no repeated numbers in the array list.
+2. There are no repeated numbers in the ArrayList.
 
 
 ```
