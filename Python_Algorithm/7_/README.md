@@ -64,6 +64,7 @@ class Consecutive:
 def main():
     L = [4, 5, 6, 7, 8, 9, 12, 15, 16, 17, 18, 20, 22, 23, 24, 27]
     consecs = Consecutive(L)
+
     print consecs.search()
 
 

@@ -13,6 +13,10 @@ This is an archive for technical interview questions for analytics/ data science
 1. (Facebook) Find the distribution of comments per unique original story?
 2. `DELETE` vs. `TRUNCATE`
 3. `UNION` vs. `UNION ALL`
+4. (Amazon) 3 analysis questions:
+    - Identify all customers which purchased product x
+    - Identify months in which revenue exceeded $1,000
+    - Calculate how much revenue was earned from customers in the US, Canada, and UKNOWN
 
 
 ### Python (general)
@@ -36,7 +40,6 @@ This is an archive for technical interview questions for analytics/ data science
 3. Iteratively calculating a Fibonacci sequence to the infinite (Python Generator)
 4. Converting a recursive Fibonacci sequence algorithm to an iterative algorithm (Loop)
 5. Find the number of elements in the list that satisfy a specific condition (Generator Expression)
-6.
-7. (Amazon) Find a list of (start, end) of all consecutive numbers (Search Algorithm).
-8. Write a function to calculate the derivative (mathematical procedure).
-
+6. Write a function to calculate the derivative (mathematical procedure).
+7. (Amazon) Find a list of (start, end) of all consecutive numbers (Search Algorithm)
+8.
