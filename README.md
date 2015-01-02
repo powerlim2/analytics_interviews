@@ -42,4 +42,6 @@ This is an archive for technical interview questions for analytics/ data science
 5. Find the number of elements in the list that satisfy a specific condition (Generator Expression)
 6. Write a function to calculate the derivative (mathematical procedure).
 7. (Amazon) Find a list of (start, end) of all consecutive numbers (Search Algorithm)
-8.
+8. (Facebook) Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
+
+
