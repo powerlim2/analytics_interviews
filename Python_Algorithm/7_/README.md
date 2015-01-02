@@ -1,10 +1,10 @@
-Algorithm Question In Python
-============================
+Algorithm Question In Python (Amazon)
+=====================================
 
 ## Question:
 
 Given a **sorted ArrayList** with some sequenced numbers and some non-sequenced numbers.
-Write an algorithm that takes this ArrayList as an input and returns a list of (start, end) of all consecutive numbers.
+Write an efficient algorithm that takes this ArrayList as an input and returns a list of (start, end) of all consecutive numbers.
 
 Assumption:
 
@@ -19,43 +19,52 @@ Assumption:
 ## Answer:
 
 ```python
-L = [4, 5, 6, 7, 8, 9, 12, 15, 16, 17, 18, 20, 22, 23, 24, 27]
+class Consecutive:
+    def __init__(self, list):
+        self.List = list
 
+    def search(self):
+        """
+        total search time: O(NlgN)
+        """
+        i = 0
+        size = len(self.List)
 
-def find_end(i, size, list):
-    """
-    Binary Search: O(lgN)
-    """
-    low = i
-    high = size
-
-    while low < high:
-        mid = (low + high) // 2
-        if (mid - low) == (list[mid] - list[low]):
-            if (mid - low + 1) < (list[mid+1] - list[low]):
-                return mid
+        out = []
+        while i < (size - 1):
+            end = _find_end(i, size - 1, self.List)
+            if end != i:
+                out.append((L[i], L[end]))
+                i = end + 1
             else:
-                low = mid + 1
-        else:
-            high = mid - 1
+                i += 1
 
-    return low
+        return out
+
+    def _find_end(self, i, size, list):
+        """
+        Binary Search: O(lgN)
+        """
+        low = i
+        high = size
+
+        while low < high:
+            mid = (low + high) // 2
+            if (mid - low) == (list[mid] - list[low]):
+                if (mid - low + 1) < (list[mid+1] - list[low]):
+                    return mid
+                else:
+                    low = mid + 1
+            else:
+                high = mid - 1
+
+        return low
 
 
 def main():
-    i = 0
-    size = len(L)
-
-    out = []
-    while i < (size - 1):
-        end = find_end(i, size - 1, L)
-        if end != i:
-            out.append((L[i], L[end]))
-            i = end + 1
-        else:
-            i += 1
-
-    print out
+    L = [4, 5, 6, 7, 8, 9, 12, 15, 16, 17, 18, 20, 22, 23, 24, 27]
+    consecs = Consecutive(L)
+    print consecs.search()
 
 
 if __name__ == "__main__":

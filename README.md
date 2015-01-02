@@ -37,6 +37,6 @@ This is an archive for technical interview questions for analytics/ data science
 4. Converting a recursive Fibonacci sequence algorithm to an iterative algorithm (Loop)
 5. Find the number of elements in the list that satisfy a specific condition (Generator Expression)
 6.
-7. Find a list of (start, end) of all consecutive numbers (Search Algorithm).
+7. (Amazon) Find a list of (start, end) of all consecutive numbers (Search Algorithm).
 8. Write a function to calculate the derivative (mathematical procedure).
 
