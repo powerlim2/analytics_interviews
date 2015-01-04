@@ -45,3 +45,12 @@ This is an archive for technical interview questions for analytics/ data science
 8. (Facebook) Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
 
 
+### Statistics
+
+1. Test of Independence on Contingency Table
+
+
+### Simple Math
+
+1. Find all integer values in X that satisfies an inequality equation.
+

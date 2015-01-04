@@ -1,5 +1,4 @@
-# Technical Interview Questions Regarding Statistics
-
+# Statistics Interview Questions
 
 ## Test of Independence on Contingency Table
 
@@ -67,4 +66,57 @@ Note:
 
 
 ### Fisher's Exact Test
+
+Fisher's Exact Test examines the significance of the association (contingency) between the two kinds of classification.
+In this particular example, Fisher's Exact Test is preferred over Pearson Chi-Square Test since the O(WOMEN, NO) = 9 and
+the sample size is reasonably small.
+
+
+Let's assume that we are restricted to use any library in the interview.
+```python
+# 1 implement Fisher's exact test for 2 by 2 contingency table
+def exact_test(a, b, c, d):
+    """
+    | a   | b   | a+b
+    | c   | d   | c+d
+    | a+c | b+d | a+b+c+d
+
+    returns the exact probability
+    """
+    return Choose(a + b, a) * Choose(c + d, c) / float(Choose(a + b + c + d, a + c))
+
+
+# 2 implement Choose function
+def Choose(n, k):
+    return Factorial(n) / (Factorial(n-k) * Factorial(k))
+
+
+# 3 implement Factorial function
+def Factorial(n):
+    if n == 0:
+        return 1
+    elif n == 1:
+        return 1
+    else:
+        return n * Factorial(n - 1)
+
+
+def main():
+    print "Fisher's Exact Test P-value: {}".format(exact_test(35, 9, 60, 41))
+
+
+if __name__ == "__main__":
+    main()
+```
+
+output:
+```
+Fisher's Exact Test P-value: 0.00937163212471
+```
+
+**We reject the null hypothesis that voting behavior is independent of gender at 99% confidence level.**
+
+Note:
+- Notice that Pearson Chi-Square approximation was slightly deviated from the exact probability when the sample size is small.
+
 
