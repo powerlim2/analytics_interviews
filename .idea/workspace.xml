@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stats/2_/README.md" afterPath="$PROJECT_DIR$/Stats/2_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420359463118" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420359479490" ignored="false" />
     <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420359438588" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,10 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="0" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.6506211">
+            <state line="51" column="0" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,13 +123,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Stats/2_/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="65" selection-start="1338" selection-end="1338" vertical-scroll-proportion="-17.884615">
+            <state line="66" column="3" selection-start="2342" selection-end="2342" vertical-scroll-proportion="-4.0330577">
               <folding />
             </state>
           </provider>
@@ -211,8 +212,8 @@
         <option value="$PROJECT_DIR$/Python_Algorithm/5_/README.md" />
         <option value="$PROJECT_DIR$/Linux/1_/README.md" />
         <option value="$PROJECT_DIR$/Stats/1_/README.md" />
-        <option value="$PROJECT_DIR$/Stats/2_/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Stats/2_/README.md" />
       </list>
     </option>
   </component>
@@ -295,10 +296,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Stats" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -514,7 +511,11 @@
       <created>1420359466616</created>
       <updated>1420359466616</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Updated Stat question">
+      <created>1420359480849</created>
+      <updated>1420359480849</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -585,7 +586,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated  question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Stat question" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -607,6 +608,7 @@
     <MESSAGE value="Stat Interview Question" />
     <MESSAGE value="Updated Linux question" />
     <MESSAGE value="Updated  question" />
+    <MESSAGE value="Updated Stat question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -752,22 +754,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stats/2_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="65" selection-start="1338" selection-end="1338" vertical-scroll-proportion="-17.884615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="0" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.6506211">
+        <state line="51" column="0" selection-start="1670" selection-end="1670" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stats/2_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="3" selection-start="2342" selection-end="2342" vertical-scroll-proportion="-4.0330577">
           <folding />
         </state>
       </provider>

@@ -57,14 +57,14 @@ y | size: 40, mean: 6.37770836, variance: 8.42969410924, min: 0.465564411783, ma
 When we test the difference of **two** distributions, the default choice will be K-S (Kolmogorov-Smirnov) test that
 compares the cumulative distributions of two variables. If we test the difference in location of two distributions,
 we can use t-test (difference in mean) and Mann-Whitney U Test (difference in mean ranks or median). When the distributions for
-two samples are normal and the variances are close to equal, *t-test* is an effective choice.
+two samples are normal, *t-test* is an effective choice.
 All other cases, *Mann-Whitney U Test* (also called *Wilcoxon Rank-Sum Test*) is preferred over t-test.
 T-test is a parametric test, which assumes the distributions are normal and compares the means while Mann-Whitney U Test is a
 non-parametric test that is distribution-free. In terms of efficiency, Mann-Whitney test is as nearly efficient as
 t-test on normal distributions.
 
 1. We are going to use the **unpaired t-test** to test whether the mean of `x` is the statistically identical to mean of `X`.
-2. Then **Mann-Whitney U test** is used to test whether the mean rank of `y` is statistically identical to the mean rank of `Y`.
+2. **Mann-Whitney U test** is used to test whether the mean rank of `y` is statistically identical to the mean rank of `Y`.
 3. **K-S test** will be performed to test the difference in distributions of (`X` and `x`) and (`Y` and `y`).
 
 
