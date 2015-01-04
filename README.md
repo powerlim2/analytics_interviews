@@ -54,3 +54,7 @@ This is an archive for technical interview questions for analytics/ data science
 
 1. Find all integer values in X that satisfies an inequality equation.
 
+
+### Linux Commands
+
+1. Find all files with a specific word in a given directory.
