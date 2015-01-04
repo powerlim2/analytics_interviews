@@ -88,11 +88,15 @@ def exact_test(a, b, c, d):
 
 # 2 implement Choose function
 def Choose(n, k):
+    assert n >= k
+
     return Factorial(n) / (Factorial(n-k) * Factorial(k))
 
 
 # 3 implement Factorial function
 def Factorial(n):
+    assert isinstance(n, int)
+
     if n == 0:
         return 1
     else:
