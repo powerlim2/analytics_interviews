@@ -73,8 +73,9 @@ t-test on normal distributions.
 We know from the given python code that parent populations of both `x` and `X` are normally distributed and have the same
 variance. This satisfies the assumption for the unpaired t-test.
 
-H0: The mean of `X` and the mean of `x` are equal
-H1: two means are NOT equal
+Hypothesis:
+- H0: The mean of `X` and the mean of `x` are equal
+- H1: two means are NOT equal
 
 ```python
 from scipy.stats import t
@@ -105,8 +106,9 @@ T-statistic: 0.346500839235, P-value: 0.728973613489
 We know from the given python code that parent populations of both `y` and `Y` are not normally distributed. In this case,
 we are going to compare the mean ranks of two distributions using Mann-Whitney U test.
 
-H0: The mean rank of `X` and the mean rank of `x` are equal
-H1: two mean ranks are NOT equal
+Hypothesis:
+- H0: The mean rank of `X` and the mean rank of `x` are equal
+- H1: two mean ranks are NOT equal
 
 ```python
 from scipy.stats import mannwhitneyu
@@ -139,9 +141,9 @@ The difference between K-S and MWU test are:
 - The KS test is sensitive to any differences in the two distributions. Substantial differences in shape, spread or median will result in a small P value. In contrast, the MWU test is mostly sensitive to changes in the median.
 - The MW test has been extended to handle tied values. The KS test does not handle ties so well. If your data are categorical, so has many ties, don't choose the KS test.
 
-
-H0: the samples were drawn from the same distribution
-H1: the samples are NOT drawn from the same distribution
+Hypothesis:
+- H0: the samples were drawn from the same distribution
+- H1: the samples are NOT drawn from the same distribution
 
 ```python
 from scipy.stats import ks_2samp
