@@ -2,7 +2,8 @@
 
 ## [Gradient Descent Question](http://cs229.stanford.edu/notes/cs229-notes1.pdf):
 
-The difference between *Batch Gradient Descent* and *Stochastic Gradient Descent*?
+Explain the difference between *Batch Gradient Descent* and *Stochastic Gradient Descent*?
+When would you use Stochastic Gradient Descent over Batch Gradient Descent?
 
 ## Answer:
 
