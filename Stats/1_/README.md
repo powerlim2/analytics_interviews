@@ -46,12 +46,37 @@ First we need to calculate the expected frequencies for each case.
 Let's perform the independence test in Python.
 
 ```python
-from scipy.stats import chisqprob
+def chi_square_test(O, E):
+    """
+    returns Pearson Chi-Square Statstics from 2x2 Contingency table
+    """
+    assert isinstance(O, list)
+    assert isinstance(E, list)
 
-Chisq = (35 - 28.83)**2/28.83 + (9 - 15.17)**2/15.17 + (60 - 66.17)**2/66.17 + (41 - 34.83)**2/34.83
-df = (2 - 1) * (2 - 1)
+    return sum((O[i] - E[i])**2/float(E[i]) for i in xrange(len(O)))
 
-print "Chi-Sqaure Stat: {}, Degree of Freedom: {}, P-Value: {}".format(Chisq, df, chisqprob(Chisq, df))
+
+def degree_of_freedom(num_rows, num_cols):
+    """
+    degree of freedom = (num_rows - 1) * (num_cols - 1) in the contingency table excluding the marginal column.
+    """
+
+    return (num_rows - 1) * (num_cols - 1)
+
+
+def main():
+    from scipy.stats import chisqprob
+
+    O = [35, 9, 60, 41]
+    E = [28.83, 15.17, 66.17, 34.83]
+    Chisq = chi_square_test(O, E)
+    df = degree_of_freedom(2, 2)
+
+    print "Chi-Sqaure Stat: {}, Degree of Freedom: {}, P-Value: {}".format(Chisq, df, chisqprob(Chisq, df))
+
+
+if __name__ == "__main__":
+    main()
 ```
 
 Output:
@@ -61,8 +86,6 @@ Chi-Sqaure Stat: 5.4982584574, Degree of Freedom: 1, P-Value: 0.0190354222443
 
 **We reject the null hypothesis that voting behavior is independent of gender at 95% confidence level.**
 
-Note:
-- The degree of freedom can be calculated by (num_rows - 1) * (num_cols - 1), excluding the marginal column).
 
 
 ### Fisher's Exact Test
