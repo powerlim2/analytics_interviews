@@ -53,7 +53,7 @@ def chi_square_test(O, E):
     assert isinstance(O, list)
     assert isinstance(E, list)
 
-    return sum((O[i] - E[i])**2/float(E[i]) for i in xrange(len(O)))
+    return sum((o - e)**2/float(e) for o, e in zip(O, E))
 
 
 def degree_of_freedom(num_rows, num_cols):

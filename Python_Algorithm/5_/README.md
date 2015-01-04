@@ -14,7 +14,7 @@ Write a code to identify the number of elements in the list that satisfy the fol
 Use generator expression
 
 ```python
-print sum(1 for x in L if x % 4 == 3)  # Theta(N), O(N), Omega(N) i love you
+print sum(1 for x in L if x % 4 == 3)  # Theta(N), O(N), Omega(N)
 ```
 
 Output:
