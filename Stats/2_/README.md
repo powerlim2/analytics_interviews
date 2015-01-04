@@ -143,7 +143,7 @@ The difference between K-S and MWU test are:
 
 Hypothesis:
 - H0: the samples were drawn from the same distribution
-- H1: the samples are NOT drawn from the same distribution
+- H1: the samples were NOT drawn from the same distribution
 
 ```python
 from scipy.stats import ks_2samp
@@ -166,7 +166,7 @@ Comparison between Y and y
 KS-statistic: 0.1413, P-value: 0.377323938426
 ```
 
-**We cannot reject the null hypothesis that the mean ranks are equal at 95% confidence level.**
+**We cannot reject the null hypothesis that the x and X were drawn from the same distribution at 95% confidence level.**
 
 
 ### Full Code Implementation
