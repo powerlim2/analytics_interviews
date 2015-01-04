@@ -48,6 +48,7 @@ This is an archive for technical interview questions for analytics/ data science
 ### Statistics
 
 1. Test of Independence on Contingency Table
+2. Test the equality of two continuous distributions
 
 
 ### Simple Math

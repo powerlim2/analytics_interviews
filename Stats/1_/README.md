@@ -3,7 +3,7 @@
 ## Test of Independence on Contingency Table
 
 
-In 2000 the Vermont State legislature approved a bill authorizing civil unions.
+In 2000, the Vermont State legislature approved a bill authorizing civil unions.
 The vote can be broken down by gender to produce the following 2X2 contingency table,
 
 |        | YES | NO  | TOTAL |
@@ -25,6 +25,8 @@ Fisher's Exact Test. In general, Fisher's Exact Test gives the exact solution bu
 larger. On the other hand, Pearson's Chi-Square Test gives the exact solution when the limit of sample size goes to infinity and it
 gives a reasonable approximation when the sample size is bigger than 10.
 
+H0: voting behavior is independent of gender
+H1: voting behavior is NOT independent of gender
 
 ### Pearson Chi-Square Test
 
@@ -81,7 +83,7 @@ if __name__ == "__main__":
 
 Output:
 ```
-Chi-Sqaure Stat: 5.4982584574, Degree of Freedom: 1, P-Value: 0.0190354222443
+Chi-Square Stat: 5.4982584574, Degree of Freedom: 1, P-Value: 0.0190354222443
 ```
 
 **We reject the null hypothesis that voting behavior is independent of gender at 95% confidence level.**
