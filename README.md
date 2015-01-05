@@ -4,11 +4,11 @@ Analytics Interview Questions
 ![tech Q](tiq.png)
 
 This is an archive for technical interview questions for analytics/ data science positions. Any organizations are welcome
-to use the interview questions and any individuals are welcome to practice; however, please cite when you share:
+to use the interview questions and any individuals are welcome to practice; however, please cite as follows when you share:
 
 `Joon Lim <powerlim2@gmail.com>`
 
-You are also welcome to email me for any questions and suggestions. Enjoy!
+You are also welcome to email me for any questions or suggestions. Enjoy!
 
 
 
