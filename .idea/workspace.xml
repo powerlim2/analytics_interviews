@@ -7,8 +7,8 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420434631217" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420435074678" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420435097585" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420435375988" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.36407766">
+            <state line="11" column="5" selection-start="288" selection-end="288" vertical-scroll-proportion="0.2669903">
               <folding />
             </state>
           </provider>
@@ -557,7 +557,11 @@
       <created>1420434633190</created>
       <updated>1420434633190</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Gradient Descent Question 2 updated">
+      <created>1420435099425</created>
+      <updated>1420435099425</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -817,7 +821,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.36407766">
+        <state line="11" column="5" selection-start="288" selection-end="288" vertical-scroll-proportion="0.2669903">
           <folding />
         </state>
       </provider>
