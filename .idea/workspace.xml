@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modeling/2_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/7_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/7_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/8_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/1_/README.md" afterPath="$PROJECT_DIR$/sql/1_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/4_/README.md" afterPath="$PROJECT_DIR$/sql/4_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modeling/2_/README.md" afterPath="$PROJECT_DIR$/Modeling/2_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416026228" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416526139" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416531623" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420434528669" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="74" selection-start="425" selection-end="425" vertical-scroll-proportion="0.23291926">
+            <state line="10" column="74" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,19 +108,19 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="75" selection-start="280" selection-end="280" vertical-scroll-proportion="-2.8846154">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Modeling/2_/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="22" column="3" selection-start="872" selection-end="872" vertical-scroll-proportion="0.46601942">
               <folding />
             </state>
           </provider>
@@ -209,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Python_Algorithm/4_/README.md" />
         <option value="$PROJECT_DIR$/python/10_/README.md" />
         <option value="$PROJECT_DIR$/sql/3_/README.md" />
         <option value="$PROJECT_DIR$/sql/2_/README.md" />
@@ -225,6 +219,7 @@
         <option value="$PROJECT_DIR$/Python_Algorithm/7_/README.md" />
         <option value="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Modeling/2_/README.md" />
       </list>
     </option>
   </component>
@@ -289,6 +284,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Modeling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analytics_interviews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analytics_interviews" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modeling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1_" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,7 +549,11 @@
       <created>1420416028112</created>
       <updated>1420416028112</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Gradient Descent Question 1 updated">
+      <created>1420416533418</created>
+      <updated>1420416533418</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -766,12 +787,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="74" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Modeling/1_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="75" selection-start="280" selection-end="280" vertical-scroll-proportion="-2.8846154">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
@@ -781,17 +812,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="74" selection-start="425" selection-end="425" vertical-scroll-proportion="0.23291926">
+        <state line="22" column="3" selection-start="872" selection-end="872" vertical-scroll-proportion="0.46601942">
           <folding />
         </state>
       </provider>
