@@ -45,11 +45,20 @@ This is an archive for technical interview questions for analytics/ data science
 8. (Facebook) Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
 
 
+## Modeling and Analysis Questions
+
 ### Statistics
 
 1. Test of Independence on Contingency Table
 2. Test the equality of two continuous distributions
 
+
+### Modeling (ML, DM)
+
+1. *Batch Gradient Descent* vs. *Stochastic Gradient Descent*?
+
+
+## Foundation Questions
 
 ### Simple Math
 
