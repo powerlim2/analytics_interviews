@@ -1,6 +1,6 @@
 # Modeling Interview Question
 
-## Gradient Descent Question
+## [Gradient Descent](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
 With your choice of software tool, implement the **batch gradient descent algorithm**
 to uncover the linear relationship between speed and break distance:

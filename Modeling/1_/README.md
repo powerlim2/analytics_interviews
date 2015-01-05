@@ -1,6 +1,6 @@
 # Modeling Interview Question
 
-## [Gradient Descent Question](http://cs229.stanford.edu/notes/cs229-notes1.pdf):
+## [Gradient Descent](http://cs229.stanford.edu/notes/cs229-notes1.pdf):
 
 Explain the difference between *Batch Gradient Descent* and *Stochastic Gradient Descent*?
 When would you use Stochastic Gradient Descent over Batch Gradient Descent?

@@ -63,6 +63,8 @@ You are also welcome to email me for any questions and suggestions. Enjoy!
 
 1. *Batch Gradient Descent* vs. *Stochastic Gradient Descent*?
 2. Implement *Batch Gradient Descent* algorithm.
+3. Modify *Batch Gradient Descent* algorithm to *Stochastic Gradient Descent* algorithm.
+4. How do you detect *outliers* when you perform a regression analysis?
 
 
 ## Foundation Questions
