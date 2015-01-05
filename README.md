@@ -62,6 +62,7 @@ You are also welcome to email me for any questions and suggestions. Enjoy!
 ### Modeling (ML, DM)
 
 1. *Batch Gradient Descent* vs. *Stochastic Gradient Descent*?
+2. Implement *Batch Gradient Descent* algorithm.
 
 
 ## Foundation Questions
