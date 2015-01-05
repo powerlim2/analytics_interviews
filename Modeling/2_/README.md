@@ -23,7 +23,7 @@ get_mse()                                   // receive the mean squared error
 summary()                                   // print out the gradient search iteration summary
 run(max_iter = 2000, alpha = 1e-4)          // run gradient descent iterations and returns the betas and mse
 
-__gradient_step()                           // internal function to make a gradient step
+__gradient_step(alpha, step)                // internal function to make a gradient step
 ```
 
 Use the following data set to model the relationship between *break distance* and *speed*:

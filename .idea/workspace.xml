@@ -7,7 +7,7 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420435474234" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420436321193" ignored="false" />
     <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420435775152" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="27" selection-start="2169" selection-end="2169" vertical-scroll-proportion="0.6359223">
+            <state line="25" column="38" selection-start="865" selection-end="865" vertical-scroll-proportion="0.60679615">
               <folding />
             </state>
           </provider>
@@ -565,7 +565,11 @@
       <created>1420435476104</created>
       <updated>1420435476104</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Gradient Descent Question 2 updated">
+      <created>1420436322568</created>
+      <updated>1420436322568</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -825,7 +829,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="27" selection-start="2169" selection-end="2169" vertical-scroll-proportion="0.6359223">
+        <state line="25" column="38" selection-start="865" selection-end="865" vertical-scroll-proportion="0.60679615">
           <folding />
         </state>
       </provider>
