@@ -20,7 +20,7 @@ In order to detect outliers that deviate from its general trend, we need to calc
 and **leverage statistics** (x-axis). Generally speaking, observations whose |studentized redisuals| > 3 are possible outliers (y-axis).
 In regression analysis, outliers are observations for which the response (y_i) is unusual given the predictor (x_i). Observations
 that a predictor value is unusual given the response value is called *a high leverage point* (x-axis). Leverage statistic is
-the same as the diagonal entries of the hat matrix. The leverage statistic is always between `1 / n` and `1` and the average leverage
+the diagonal entries of the hat matrix. The leverage statistic is always between `1 / n` and `1` and the average leverage
 for all the observations is always equal to `(p + 1) / n`. An observation with is leverage statistic that greatly exceeds
 the average leverage value is possible high leverage point.
 

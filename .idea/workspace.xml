@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modeling/4_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modeling/1_/README.md" afterPath="$PROJECT_DIR$/Modeling/1_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modeling/2_/README.md" afterPath="$PROJECT_DIR$/Modeling/2_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Modeling/4_/README.md" afterPath="$PROJECT_DIR$/Modeling/4_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420436544034" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420442975954" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420443212342" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420443396554" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="72" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.6942149">
+            <state line="22" column="0" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.54545456">
               <folding />
             </state>
           </provider>
@@ -612,7 +609,11 @@
       <created>1420436545709</created>
       <updated>1420436545709</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add modeling Q4">
+      <created>1420443214926</created>
+      <updated>1420443214926</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -683,7 +684,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="add modeling Q2 title" />
+    <option name="LAST_COMMIT_MESSAGE" value="add modeling Q4" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -709,6 +710,7 @@
     <MESSAGE value="Gradient Descent Question 1 updated" />
     <MESSAGE value="Gradient Descent Question 2 updated" />
     <MESSAGE value="add modeling Q2 title" />
+    <MESSAGE value="add modeling Q4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -873,7 +875,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="72" selection-start="1836" selection-end="1836" vertical-scroll-proportion="0.6942149">
+        <state line="22" column="0" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.54545456">
           <folding />
         </state>
       </provider>
