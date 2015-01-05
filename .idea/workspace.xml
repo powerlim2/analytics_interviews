@@ -7,8 +7,8 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416531623" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420434528669" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420434631217" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420435074678" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="3" selection-start="872" selection-end="872" vertical-scroll-proportion="0.46601942">
+            <state line="15" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.36407766">
               <folding />
             </state>
           </provider>
@@ -553,7 +553,11 @@
       <created>1420416533418</created>
       <updated>1420416533418</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Gradient Descent Question 2 updated">
+      <created>1420434633190</created>
+      <updated>1420434633190</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -624,7 +628,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gradient Descent Question 1 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gradient Descent Question 2 updated" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -648,6 +652,7 @@
     <MESSAGE value="Updated  question" />
     <MESSAGE value="Updated Stat question" />
     <MESSAGE value="Gradient Descent Question 1 updated" />
+    <MESSAGE value="Gradient Descent Question 2 updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -812,7 +817,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="3" selection-start="872" selection-end="872" vertical-scroll-proportion="0.46601942">
+        <state line="15" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.36407766">
           <folding />
         </state>
       </provider>

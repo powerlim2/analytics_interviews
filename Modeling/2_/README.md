@@ -7,7 +7,11 @@ to uncover the linear relationship between speed and break distance:
 
 ` break distance = b0 + b1 * speed`
 
-Find the optimal b0 and b1. You can use linear algebra or matrix operation libraries.
+Find the optimal b0 and b1.
+
+Note:
+- You can use linear algebra or matrix operation libraries.
+- Set the initial guess of beta at 1.
 
 
 Gradient Descent API:
@@ -55,7 +59,7 @@ class GradientDescent:
         self.x = np.array([np.ones(len(x)), x]).transpose()
         self.y = np.array(y)
         self.__mse = None
-        self.__beta = np.ones(self.x.shape[1])  # initial beta set to 1
+        self.__beta = np.ones(self.x.shape[1])  # initial guess of beta set to 1
         self.__summary = "Gradient Search Iteration Summary\n\n"
 
     def summary(self):
