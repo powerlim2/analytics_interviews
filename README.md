@@ -3,17 +3,23 @@ Analytics Interview Questions
 
 ![tech Q](tiq.png)
 
-This is an archive for technical interview questions for analytics/ data science positions.
+This is an archive for technical interview questions for analytics/ data science positions. Any organizations are welcome
+to use the interview questions and any individuals are welcome to practice; however, please cite when you share:
+
+`Joon Lim <powerlim2@gmail.com>`
+
+You are also welcome to email me for any questions and suggestions. Enjoy!
+
 
 
 ## Programming Questions
 
 ### SQL
 
-1. (Facebook) Find the distribution of comments per unique original story?
+1. Find the distribution of comments per unique original story?
 2. `DELETE` vs. `TRUNCATE`
 3. `UNION` vs. `UNION ALL`
-4. (Amazon) 3 analysis questions:
+4. 3 analysis questions:
     - Identify all customers which purchased product x
     - Identify months in which revenue exceeded $1,000
     - Calculate how much revenue was earned from customers in the US, Canada, and UKNOWN
@@ -41,8 +47,8 @@ This is an archive for technical interview questions for analytics/ data science
 4. Converting a recursive Fibonacci sequence algorithm to an iterative algorithm (Loop)
 5. Find the number of elements in the list that satisfy a specific condition (Generator Expression)
 6. Write a function to calculate the derivative (mathematical procedure).
-7. (Amazon) Find a list of (start, end) of all consecutive numbers (Search Algorithm)
-8. (Facebook) Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
+7. Find a list of (start, end) of all consecutive numbers (Search Algorithm)
+8. Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
 
 
 ## Modeling and Analysis Questions

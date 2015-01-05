@@ -1,4 +1,4 @@
-# Amazon Analytics SQL Question
+# Analytics SQL Question
 
 
 **Given a set of tables:**

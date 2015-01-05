@@ -1,4 +1,4 @@
-# Facebook Analytics SQL Question
+# Analytics SQL Question
 
 
 ## Background Data

@@ -1,5 +1,5 @@
-Facebook Algorithm Question In Python
-=====================================
+Algorithm Question In Python
+============================
 
 ## Question:
 

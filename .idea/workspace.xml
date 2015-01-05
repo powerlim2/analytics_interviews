@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Modeling/2_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/7_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/7_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/8_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/1_/README.md" afterPath="$PROJECT_DIR$/sql/1_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/4_/README.md" afterPath="$PROJECT_DIR$/sql/4_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420415614853" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416007903" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416026228" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420416526139" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +77,31 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="13" selection-start="1809" selection-end="1809" vertical-scroll-proportion="0.6273292">
+            <state line="10" column="74" selection-start="425" selection-end="425" vertical-scroll-proportion="0.23291926">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/1_/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/4_/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -91,21 +120,24 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stats/1_/README.md">
+        <entry file="file://$PROJECT_DIR$/Modeling/2_/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="27" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-8.235294">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Algorithm/5_/README.md">
+        <entry file="file://$PROJECT_DIR$/Stats/1_/README.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="3" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+            <state line="28" column="27" selection-start="1034" selection-end="1034" vertical-scroll-proportion="-8.235294">
               <folding />
             </state>
           </provider>
@@ -124,33 +156,12 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stats/2_/README.md">
+        <entry file="file://$PROJECT_DIR$/Python_Algorithm/7_/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="169" column="0" selection-start="5807" selection-end="5807" vertical-scroll-proportion="-18.653847">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_Algorithm/6_/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="-2.8846154">
+            <state line="1" column="28" selection-start="57" selection-end="57" vertical-scroll-proportion="-0.5769231">
               <folding />
             </state>
           </provider>
@@ -162,19 +173,19 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="314" selection-end="314" vertical-scroll-proportion="-6.3461537">
+            <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.5769231">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sql/4_/README.md">
+        <entry file="file://$PROJECT_DIR$/Stats/2_/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="14" selection-start="994" selection-end="994" vertical-scroll-proportion="-12.692307">
+            <state line="169" column="0" selection-start="5807" selection-end="5807" vertical-scroll-proportion="-18.653847">
               <folding />
             </state>
           </provider>
@@ -198,21 +209,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Python_Algorithm/2_/README.md" />
         <option value="$PROJECT_DIR$/Python_Algorithm/4_/README.md" />
         <option value="$PROJECT_DIR$/python/10_/README.md" />
         <option value="$PROJECT_DIR$/sql/3_/README.md" />
         <option value="$PROJECT_DIR$/sql/2_/README.md" />
         <option value="$PROJECT_DIR$/Math/README.md" />
-        <option value="$PROJECT_DIR$/Python_Algorithm/7_/README.md" />
         <option value="$PROJECT_DIR$/Python_Algorithm/6_/README.md" />
-        <option value="$PROJECT_DIR$/sql/4_/README.md" />
-        <option value="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
         <option value="$PROJECT_DIR$/Python_Algorithm/5_/README.md" />
         <option value="$PROJECT_DIR$/Linux/1_/README.md" />
         <option value="$PROJECT_DIR$/Stats/1_/README.md" />
         <option value="$PROJECT_DIR$/Stats/2_/README.md" />
         <option value="$PROJECT_DIR$/Modeling/1_/README.md" />
+        <option value="$PROJECT_DIR$/sql/1_/README.md" />
+        <option value="$PROJECT_DIR$/sql/4_/README.md" />
+        <option value="$PROJECT_DIR$/Python_Algorithm/7_/README.md" />
+        <option value="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -278,10 +289,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Modeling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -521,7 +528,11 @@
       <created>1420415617866</created>
       <updated>1420415617866</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Gradient Descent Question 1 updated">
+      <created>1420416028112</created>
+      <updated>1420416028112</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -625,14 +636,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/10_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sql/2_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -653,16 +656,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Algorithm/7_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="26" selection-start="1609" selection-end="1609" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sql/3_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -673,42 +666,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sql/1_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/4_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="14" selection-start="994" selection-end="994" vertical-scroll-proportion="-12.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_Algorithm/6_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="0" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Algorithm/8_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="314" selection-end="314" vertical-scroll-proportion="-6.3461537">
           <folding />
         </state>
       </provider>
@@ -763,6 +726,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sql/1_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/4_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Algorithm/7_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="57" selection-end="57" vertical-scroll-proportion="-0.5769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Algorithm/8_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.5769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Modeling/1_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -773,12 +776,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Modeling/2_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="13" selection-start="1809" selection-end="1809" vertical-scroll-proportion="0.6273292">
+        <state line="10" column="74" selection-start="425" selection-end="425" vertical-scroll-proportion="0.23291926">
           <folding />
         </state>
       </provider>

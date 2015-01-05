@@ -1,5 +1,5 @@
-Algorithm Question In Python (Amazon)
-=====================================
+Algorithm Question In Python
+============================
 
 ## Question:
 
