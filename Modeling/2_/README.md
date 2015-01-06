@@ -55,9 +55,16 @@ class GradientDescent:
 
     """
     def __init__(self, x, y):
-        assert len(x) == len(y)
+        if not any(isinstance(i, list) for i in x):
+            assert len(x) == len(y)
 
-        self.x = np.array([np.ones(len(x)), x]).transpose()
+            self.x = np.array([np.ones(len(x)), x]).transpose()
+        else:
+            assert len(x[0]) == len(y)
+
+            temp = [np.ones(len(x[0]))]
+            temp.extend(x)
+            self.x = np.array(temp).transpose()
         self.y = np.array(y)
         self.__mse = None
         self.__beta = np.ones(self.x.shape[1])  # initial guess of beta set to 1
