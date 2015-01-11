@@ -33,7 +33,8 @@ def exists_sum1(arr, value):
     assert isinstance(value, int)
     assert isinstance(arr, list)
 
-    if len(arr) < 2: return []
+    if len(arr) < 2:
+        return []
     return [(arr[i] , arr[j]) for i in xrange(len(arr)) for j in xrange(i+1, len(arr)-1) if arr[i] + arr[j] == value]
 
 
