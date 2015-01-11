@@ -94,7 +94,7 @@ False
 
 ## Solution 2: O(len(C))
 
-- Approach: using two pointers and iterating the list C
+- Approach: using two pointers and iterating the string elements in C
 
 ```python
 def is_shuffled2(A, B, C):
