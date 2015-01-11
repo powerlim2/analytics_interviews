@@ -92,7 +92,7 @@ False
 ```
 
 
-## Solution 2: O(len(C))
+## Solution 2: O(len(A) + len(B))
 
 - Approach: using two pointers and iterating the string elements in C
 

@@ -7,8 +7,8 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421020119585" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421020170135" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421020179429" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421020208423" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="47" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.46116504">
+            <state line="94" column="32" selection-start="1977" selection-end="1977" vertical-scroll-proportion="1.5776699">
               <folding />
             </state>
           </provider>
@@ -691,7 +691,11 @@
       <created>1421020121462</created>
       <updated>1421020121462</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Complete Ordered Shuffle">
+      <created>1421020181556</created>
+      <updated>1421020181556</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -955,7 +959,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="47" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.46116504">
+        <state line="94" column="32" selection-start="1977" selection-end="1977" vertical-scroll-proportion="1.5776699">
           <folding />
         </state>
       </provider>
