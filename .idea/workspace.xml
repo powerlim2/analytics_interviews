@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Algorithm/9_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/9_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/9_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421008258448" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421012909279" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421012955750" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421020089390" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +156,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.75242716">
+            <state line="167" column="67" selection-start="3402" selection-end="3402" vertical-scroll-proportion="4.053398">
               <folding />
             </state>
           </provider>
@@ -219,8 +218,8 @@
         <option value="$PROJECT_DIR$/Modeling/2_/README.md" />
         <option value="$PROJECT_DIR$/Stats/3_/README.md" />
         <option value="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
-        <option value="$PROJECT_DIR$/Python_Algorithm/9_/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Python_Algorithm/9_/README.md" />
       </list>
     </option>
   </component>
@@ -684,7 +683,11 @@
       <created>1421008260931</created>
       <updated>1421008260931</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Complete Ordered Shuffle">
+      <created>1421012957941</created>
+      <updated>1421012957941</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -755,7 +758,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify PA Q8&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Ordered Shuffle" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -783,6 +786,7 @@
     <MESSAGE value="add modeling Q2 title" />
     <MESSAGE value="add modeling Q4" />
     <MESSAGE value="Modify PA Q8&#10;" />
+    <MESSAGE value="Complete Ordered Shuffle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -947,7 +951,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.75242716">
+        <state line="167" column="67" selection-start="3402" selection-end="3402" vertical-scroll-proportion="4.053398">
           <folding />
         </state>
       </provider>
