@@ -49,6 +49,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 6. Write a function to calculate the derivative (mathematical procedure).
 7. Find a list of (start, end) of all consecutive numbers (Search Algorithm)
 8. Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
+9. Is string `C` a complete ordered shuffle of string `A` and string `B`?
 
 
 ## Modeling and Analysis Questions
