@@ -1,6 +1,6 @@
 # Statistics Interview Question
 
-Question about Case-Control Study Design
+Questions about Case-Control Study Design
 
 ## Question 1:
 

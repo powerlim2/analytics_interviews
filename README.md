@@ -57,6 +57,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 
 1. Test of Independence on Contingency Table
 2. Test the equality of two continuous distributions
+3. Case-Control Study Design
 
 
 ### Modeling (ML, DM)

@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stats/3_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stats/3_/README.md" afterPath="$PROJECT_DIR$/Stats/3_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420512120065" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420948728855" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420948733542" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1420948931673" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="107" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+            <state line="60" column="0" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -180,7 +181,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="27" selection-start="60" selection-end="60" vertical-scroll-proportion="0.049586777">
+            <state line="4" column="14" selection-start="90" selection-end="90" vertical-scroll-proportion="0.09917355">
               <folding />
             </state>
           </provider>
@@ -217,8 +218,8 @@
         <option value="$PROJECT_DIR$/Python_Algorithm/8_/README.md" />
         <option value="$PROJECT_DIR$/Modeling/1_/README.md" />
         <option value="$PROJECT_DIR$/Modeling/4_/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Modeling/2_/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Stats/3_/README.md" />
       </list>
     </option>
@@ -675,7 +676,11 @@
       <created>1420512122265</created>
       <updated>1420512122265</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="add modeling Q4">
+      <created>1420948736236</created>
+      <updated>1420948736236</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -902,16 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="107" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Modeling/2_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -932,12 +927,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1959" selection-end="1959" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Stats/3_/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="27" selection-start="60" selection-end="60" vertical-scroll-proportion="0.049586777">
+        <state line="4" column="14" selection-start="90" selection-end="90" vertical-scroll-proportion="0.09917355">
           <folding />
         </state>
       </provider>
