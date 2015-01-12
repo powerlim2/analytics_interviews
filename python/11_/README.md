@@ -12,7 +12,7 @@ This is a string manipulation question. Write a function to reverse words in the
 ```
 
 
-## Solution 1: using built-in python functions
+## Solution using built-in python functions
 
 ```python
 def reverse_words(Sentence):
