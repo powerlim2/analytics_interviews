@@ -6,7 +6,7 @@ Algorithm Question In Python
 Find the largest continuous sum in the following array of positive and negative integers.
 
 ```python
-A = [1, 2, 5, 3, 6, -6, 8, -1, -4, -5, 10, 1, 2, -3]
+A = [-5, 1, 2, 5, 3, 6, -6, 8, -1, -4, -5, 10, 1, 2, -3]
 
 maxContSum(A)
 ```
@@ -30,7 +30,7 @@ def maxContSum(List):
 
 
 def main():
-    A = [1, 2, 5, 3, 6, -6, 8, -1, -4, -5, 10, 1, 2, -3]
+    A = [-5, 1, 2, 5, 3, 6, -6, 8, -1, -4, -5, 10, 1, 2, -3]
 
     print maxContSum(A)
 
