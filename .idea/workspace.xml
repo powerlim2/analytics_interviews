@@ -7,8 +7,8 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421037110075" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421036461183" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421037196950" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421039495788" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="10" selection-start="689" selection-end="689" vertical-scroll-proportion="0.8364486">
+            <state line="98" column="3" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.9046105">
               <folding />
             </state>
           </provider>
@@ -706,7 +706,11 @@
       <created>1421037111798</created>
       <updated>1421037111798</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Max Continuous Sum">
+      <created>1421037199103</created>
+      <updated>1421037199103</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -973,7 +977,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="10" selection-start="689" selection-end="689" vertical-scroll-proportion="0.8364486">
+        <state line="98" column="3" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.9046105">
           <folding />
         </state>
       </provider>
