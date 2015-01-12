@@ -21,7 +21,7 @@ def maxContSum(List):
     if len(List) == 0:
         return
 
-    Msum = Csum = 0
+    Msum = Csum = -9999
     for element in List:
         Csum = max(Csum + element, element)  # get rid of initial negatives
         Msum = max(Msum, Csum)
