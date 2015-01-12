@@ -14,14 +14,20 @@ HINT:
 from math import sqrt
 
 
-def Fibonacci(n):
-    assert type(n) == int   # the input must be an integer
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
+def Fibonacci(n, cache=dict()):
+    '''
+    caching the computed value to remove redundant recursive computations
+    '''
+    assert isinstance(n, int)   # the input must be an integer
+
+    if cache.has_key(n):
+        return cache.get(n)
     else:
-        return Fibonacci(n-2) + Fibonacci(n-1)
+        if n < 2:
+            cache[n] = n
+        else:
+            cache[n] = Fibonacci(n-2) + Fibonacci(n-1)
+        return cache.get(n)
 
 
 def Fib(n):

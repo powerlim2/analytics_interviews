@@ -7,17 +7,20 @@ Algorithm Question In Python
 
 
 ```python
-def Fibonacci(n):
-    """
-    Recursive Fibonacci sequence algorithm
-    """
-    assert type(n) == int   # the input must be an integer
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
+def Fibonacci(n, cache=dict()):
+    '''
+    Recursive Fibonacci Sequence algorithm using Cache
+    '''
+    assert isinstance(n, int)   # the input must be an integer
+
+    if cache.has_key(n):
+        return cache.get(n)
     else:
-        return Fibonacci(n-2) + Fibonacci(n-1)
+        if n < 2:
+            cache[n] = n
+        else:
+            cache[n] = Fibonacci(n-2) + Fibonacci(n-1)
+        return cache.get(n)
 ```
 
 
@@ -28,7 +31,7 @@ from math import sqrt
 
 
 def Fibonacci_iterative(n):
-    assert type(n) == int   # the input must be an integer
+    assert isinstance(n, int)   # the input must be an integer
     a, b = 0, 1
     if n < 2:
         return n
@@ -38,17 +41,20 @@ def Fibonacci_iterative(n):
         return b
 
 
-def Fibonacci_recursive(n):
-    """
-    Recursive Fibonacci sequence algorithm
-    """
-    assert type(n) == int   # the input must be an integer
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
+def Fibonacci(n, cache=dict()):
+    '''
+    Recursive Fibonacci Sequence algorithm using Cache
+    '''
+    assert isinstance(n, int)   # the input must be an integer
+
+    if cache.has_key(n):
+        return cache.get(n)
     else:
-        return Fibonacci_recursive(n-2) + Fibonacci_recursive(n-1)
+        if n < 2:
+            cache[n] = n
+        else:
+            cache[n] = Fibonacci(n-2) + Fibonacci(n-1)
+        return cache.get(n)
 
 
 def Fib(n):
@@ -57,6 +63,7 @@ def Fib(n):
     This is used to check the accuracy of Fibonacci() function.
     In terms of performance, this is the most preferred way to calculate the Fibonacci sequence.
     """
+    assert isinstance(n, int)
     return int( ((1 + sqrt(5)) ** n - (1 - sqrt(5)) ** n) / (2 ** n * sqrt(5)) )
 
 
