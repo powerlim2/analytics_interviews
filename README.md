@@ -50,6 +50,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 7. Find a list of (start, end) of all consecutive numbers (Search Algorithm)
 8. Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
 9. Is string `C` a complete ordered shuffle of string `A` and string `B`?
+10. Find the largest continuous sum in the following array of positive and negative integers.
 
 
 ## Modeling and Analysis Questions
