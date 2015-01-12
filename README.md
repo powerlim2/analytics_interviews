@@ -41,16 +41,17 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 
 ### Python (algorithm)
 
-1. Calculating a factorial of value n (Recursive Algorithm)
-2. Calculating a Fibonacci sequence value of position n (Recursive Algorithm)
-3. Iteratively calculating a Fibonacci sequence to the infinite (Python Generator)
-4. Converting a recursive Fibonacci sequence algorithm to an iterative algorithm (Loop)
-5. Find the number of elements in the list that satisfy a specific condition (Generator Expression)
-6. Write a function to calculate the derivative (mathematical procedure).
-7. Find a list of (start, end) of all consecutive numbers (Search Algorithm)
-8. Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
-9. Is string `C` a complete ordered shuffle of string `A` and string `B`?
+1.  Calculating a factorial of value n (Recursive Algorithm)
+2.  Calculating a Fibonacci sequence value of position n (Recursive Algorithm)
+3.  Iteratively calculating a Fibonacci sequence to the infinite (Python Generator)
+4.  Converting a recursive Fibonacci sequence algorithm to an iterative algorithm (Loop)
+5.  Find the number of elements in the list that satisfy a specific condition (Generator Expression)
+6.  Write a function to calculate the derivative (mathematical procedure).
+7.  Find a list of (start, end) of all consecutive numbers (Search Algorithm)
+8.  Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
+9.  Is string `C` a complete ordered shuffle of string `A` and string `B`?
 10. Find the largest continuous sum in the following array of positive and negative integers.
+11. Efficiently reverse words in the specified string.
 
 
 ## Modeling and Analysis Questions
