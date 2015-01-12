@@ -11,14 +11,14 @@ A = [1, 2, 5, 3, 6, -6, 8, -1, -4, -5, 10, 1, 2, -3]
 maxContSum(A)
 ```
 
-## Solution
+## Solution: O(n)
 
 
 ```python
 def maxContSum(List):
     assert isinstance(List, list)
 
-    if len(A) == 0:
+    if len(List) == 0:
         return
 
     Msum = Csum = 0
@@ -32,9 +32,15 @@ def maxContSum(List):
 def main():
     A = [1, 2, 5, 3, 6, -6, 8, -1, -4, -5, 10, 1, 2, -3]
 
-    print maxcontSum(A)
+    print maxContSum(A)
 
 
 if __name__ == "__main__":
     main()
+```
+
+**output:**
+
+```
+22
 ```

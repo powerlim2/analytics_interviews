@@ -7,8 +7,8 @@
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421030474541" ignored="false" />
-    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421036270364" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421036328198" ignored="false" />
+    <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421036461183" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="10" selection-start="668" selection-end="668" vertical-scroll-proportion="0.88785046">
+            <state line="14" column="17" selection-start="265" selection-end="265" vertical-scroll-proportion="0.27570093">
               <folding />
             </state>
           </provider>
@@ -690,7 +690,11 @@
       <created>1421030476267</created>
       <updated>1421030476267</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Max Continuous Sum">
+      <created>1421036330124</created>
+      <updated>1421036330125</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -761,7 +765,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Factorial Answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max Continuous Sum" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -792,6 +796,7 @@
     <MESSAGE value="Complete Ordered Shuffle" />
     <MESSAGE value="Update Fibonacci Sequence Answer" />
     <MESSAGE value="Update Factorial Answer" />
+    <MESSAGE value="Max Continuous Sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -956,7 +961,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="10" selection-start="668" selection-end="668" vertical-scroll-proportion="0.88785046">
+        <state line="14" column="17" selection-start="265" selection-end="265" vertical-scroll-proportion="0.27570093">
           <folding />
         </state>
       </provider>
