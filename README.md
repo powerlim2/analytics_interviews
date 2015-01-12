@@ -37,6 +37,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 8.  Writing a module
 9.  Basic file IO
 10. Writing a decorator
+11. Efficiently reverse words in the specified string.
 
 
 ### Python (algorithm)
@@ -51,7 +52,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 8.  Given an array of integers, find all pairs that two values sum to a given value (Search Algorithm)
 9.  Is string `C` a complete ordered shuffle of string `A` and string `B`?
 10. Find the largest continuous sum in the following array of positive and negative integers.
-11. Efficiently reverse words in the specified string.
+
 
 
 ## Modeling and Analysis Questions
