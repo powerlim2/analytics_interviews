@@ -33,7 +33,6 @@ def first_unique_alphabet(String):
     for i in xrange(len(String)):
         if lookup.get(lowered[i]) == 1:
             return String[i]
-
     return
 
 

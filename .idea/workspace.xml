@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/11_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/11_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421045076195" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421045293601" ignored="false" />
     <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421045052775" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +108,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="40" selection-start="706" selection-end="706" vertical-scroll-proportion="0.60504204">
+            <state line="34" column="28" selection-start="895" selection-end="895" vertical-scroll-proportion="0.5294118">
               <folding />
             </state>
           </provider>
@@ -217,8 +218,8 @@
         <option value="$PROJECT_DIR$/Python_Algorithm/9_/README.md" />
         <option value="$PROJECT_DIR$/Python_Algorithm/10_/README.md" />
         <option value="$PROJECT_DIR$/python/11_/README.md" />
-        <option value="$PROJECT_DIR$/Python_Algorithm/11_/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Python_Algorithm/11_/README.md" />
       </list>
     </option>
   </component>
@@ -754,7 +755,11 @@
       <created>1421045078172</created>
       <updated>1421045078172</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="String Manipulation Python">
+      <created>1421045295469</created>
+      <updated>1421045295469</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1022,7 +1027,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="40" selection-start="706" selection-end="706" vertical-scroll-proportion="0.60504204">
+        <state line="34" column="28" selection-start="895" selection-end="895" vertical-scroll-proportion="0.5294118">
           <folding />
         </state>
       </provider>
