@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Algorithm/11_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421042603905" ignored="false" />
+    <file path="/Dummy.txt" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421045076195" ignored="false" />
     <file path="/README.md" changelist="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" time="1421045052775" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +68,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.6950464">
+            <state line="55" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,13 +101,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Algorithm/11_/README.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="-0.88235295">
+            <state line="27" column="40" selection-start="706" selection-end="706" vertical-scroll-proportion="0.60504204">
               <folding />
             </state>
           </provider>
@@ -752,7 +750,11 @@
       <created>1421042606112</created>
       <updated>1421042606112</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="String Manipulation Python">
+      <created>1421045078172</created>
+      <updated>1421045078172</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1005,22 +1007,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_Algorithm/11_/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="111" selection-end="111" vertical-scroll-proportion="-0.88235295">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.6950464">
+        <state line="55" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Algorithm/11_/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="40" selection-start="706" selection-end="706" vertical-scroll-proportion="0.60504204">
           <folding />
         </state>
       </provider>
