@@ -41,7 +41,7 @@ def Fibonacci_iterative(n):
         return b
 
 
-def Fibonacci(n, cache=dict()):
+def Fibonacci_recursive(n, cache=dict()):
     '''
     Recursive Fibonacci Sequence algorithm using Cache
     '''
@@ -94,12 +94,12 @@ if __name__ == "__main__":
 
 screen output:
 ```
-Loop: 2.00000000063e-05
-Recursive: 0.01751
-Efficient Equation: 2.10000000038e-05
+Loop: 7.00000000364e-06
+Recursive: 3.9000000001e-05
+Efficient Equation: 7.99999999401e-06
 True
 ```
 
-- `loop` is as fast as `the efficient equation` while `recursive` is much slower than other two.
+- `loop` is as fast as `the efficient equation` while `recursive` is slower than other two.
 - when n is small, `loop` is actually faster than `the efficient equation`.
 

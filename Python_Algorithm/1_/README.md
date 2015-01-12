@@ -8,12 +8,21 @@ Algorithm Question In Python
 ## Answer:
 
 ```python
-def Factorial(x):
-    assert type(x) == int   # the input must be an integer
-    if x == 0:
-        return 1
+def Factorial(x, cache=dict()):
+    '''
+    Recursive Factorial Algorithm using Cache
+    '''
+    assert isinstance(x, int)   # the input must be an integer
+    assert x >= 0
+
+    if cache.has_key(x):
+        return cache.get(x)
     else:
-        return x * Factorial(x-1)
+        if x < 2:
+            cache[x] = 1
+        else:
+            cache[x] = x * Factorial(x-1)
+        return cache.get(x)
 
 
 def main():
