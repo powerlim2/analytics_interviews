@@ -24,7 +24,7 @@ member_id   page_key    page_sequence
 6   Search  1
 ```
 
-## Question
+## Question 1
 
 **What was the last page that each member visited?**
 
@@ -61,3 +61,5 @@ JOIN (
 ) PAGE
 ON MEMBER.member_id = PAGE.member_id AND MEMBER.last_page = PAGE.page_sequence
 ```
+
+

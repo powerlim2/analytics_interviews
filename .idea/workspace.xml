@@ -97,8 +97,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sql/5_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06540698" vertical-offset="0" max-vertical-offset="1020">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.86918604" vertical-offset="377" max-vertical-offset="1065">
+              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -591,12 +591,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00031" summary="Gradient Descent Question 2 updated">
-      <created>1420435099425</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1420435099425</updated>
-    </task>
     <task id="LOCAL-00032" summary="Gradient Descent Question 2 updated">
       <created>1420435476104</created>
       <option name="number" value="00032" />
@@ -885,7 +879,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421621949275</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="SQL Q5 Uploaded">
+      <created>1421622073327</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1421622073327</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -909,7 +909,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24583334" sideWeight="0.67099565" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24583334" sideWeight="0.67099565" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -957,7 +957,8 @@
     <MESSAGE value="Python Algorithm Q12" />
     <MESSAGE value="Python Algorithm Q13" />
     <MESSAGE value="Mapreduce Question Uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mapreduce Question Uploaded" />
+    <MESSAGE value="SQL Q5 Uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL Q5 Uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1425,8 +1426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/5_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06540698" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.86918604" vertical-offset="377" max-vertical-offset="1065">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding />
         </state>
       </provider>
