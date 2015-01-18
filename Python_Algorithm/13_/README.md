@@ -10,6 +10,7 @@ Algorithm Question In Python
 
     ```
     5476  ->  5647
+    5454 ->   5544
     ```
 
 Note:
@@ -25,20 +26,20 @@ def next_largest(num):
     assert isinstance(num, int)
     assert num >= 0
     
-    strNum = str(num)
-    length = len(strNum)
+    Snum = str(num)
     
-    for i in range(length-2, -1, -1):
-        if strNum[i] < strNum[i+1]:
-            temp = sorted(strNum[i:]) 
-            next = temp.pop(1)
-            return int(strNum[:i] + next + ''.join(temp))
+    for i in range(len(Snum)-2, -1, -1):
+        if Snum[i] < Snum[i+1]:
+            tmp = sorted(Snum[i:])
+            next = tmp.pop(tmp.index(sorted(set(Snum[i:]))[1]))
+            return int(Snum[:i] + next + ''.join(tmp))
             
     return num
 
 
 def main():
     print next_largest(5476)
+    print next_largest(5454)
 
 
 if __name__ == "__main__":
@@ -49,4 +50,5 @@ output:
 
 ```
 5647
+5544
 ```
