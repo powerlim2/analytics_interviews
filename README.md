@@ -56,6 +56,13 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 12. Calculate approximated square rooted integer value given a non-negative integer
 13. Find the next largest integer with the same digits
 
+
+### Distributed Architecture
+
+1. find the number of distinct names that start with the same letter.
+
+
+
 ## Modeling and Analysis Questions
 
 ### Statistics
