@@ -84,8 +84,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/distributed_architecture/1_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8255814" vertical-offset="152" max-vertical-offset="870">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.25872093" vertical-offset="152" max-vertical-offset="870">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -576,12 +576,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00028" summary="Gradient Descent Question 1 updated">
-      <created>1420416028112</created>
-      <option name="number" value="00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1420416028112</updated>
-    </task>
     <task id="LOCAL-00029" summary="Gradient Descent Question 1 updated">
       <created>1420416533418</created>
       <option name="number" value="00029" />
@@ -870,7 +864,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421621323279</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Mapreduce Question Uploaded">
+      <created>1421621567732</created>
+      <option name="number" value="00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1421621567732</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1388,8 +1388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/distributed_architecture/1_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8255814" vertical-offset="152" max-vertical-offset="870">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.25872093" vertical-offset="152" max-vertical-offset="870">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>

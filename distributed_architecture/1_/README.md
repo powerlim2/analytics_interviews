@@ -20,7 +20,7 @@ The following answer is to use the Mapreduce in Hadoop. We can find the number o
 a single Mapreduce step. 
 
 ```
-# Map Reduce Steps: map - shuffle (optional)  - reduce
+# Map Reduce Steps: map - shuffle - reduce
  
  
 # Map Stage Output
