@@ -85,15 +85,16 @@ def last_page(csvfile):
         input.readline()  # skip title
         
         for line in csv.reader(input):
-            id = line[0]
+            id, Pkey, Pseq = line
+
             if member.has_key(id):
-                if member.get(id) < line[2]:
-                    member[id] = line[2]
-                    page[id] = line[1]
+                if member.get(id) < Pseq:
+                    member[id] = Pseq
+                    page[id] = Pkey
             
             else:
-                member[id] = line[2]
-                page[id] = line[1]
+                member[id] = Pseq
+                page[id] = Pkey
     
     return page
 
