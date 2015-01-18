@@ -23,7 +23,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
     - Identify all customers which purchased product x
     - Identify months in which revenue exceeded $1,000
     - Calculate how much revenue was earned from customers in the US, Canada, and UKNOWN
-
+5. What was the last page that each member visited?
 
 ### Python (general)
 
