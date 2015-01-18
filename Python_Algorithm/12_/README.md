@@ -45,7 +45,7 @@ def SQRT_FLOOR(num):
     
     low = 1
     high = 1 + num // 2
-    while (low + 1 < high):
+    while (high - low > 1):
         mid = low + (high - low) // 2
         
         if mid ** 2 == num:
