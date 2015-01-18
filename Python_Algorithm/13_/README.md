@@ -26,17 +26,26 @@ def next_largest(num):
     assert num >= 0
     
     num = str(num)
-    L = N = len(num)
+    N = len(num)
     
     if N == 1:
         return int(num)
     
     i = N - 2
-    while N > 0:
+    minP = N - 1
+    while N > 1:
         if int(num[i]) >= int(num[i+1]):
+            if num[i] < num[minP]:
+                minP = i
             i -= 1
         else:
-            return int(num[:i] + num[i+1] + "".join(sorted(num[i] + num[i+2:])))
+            if num[i] < num[minP]:
+                right = list(num[i:])
+                mid = right.pop(minP-i)
+                return int(num[:i] + mid + "".join(sorted(right)))
+            else:
+                return int(num[:i] + num[i+1] + "".join(sorted(num[i] + num[i+2:])))
+        
         N -= 1
     
     return int(num)
