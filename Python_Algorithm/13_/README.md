@@ -23,6 +23,7 @@ the function will return the input value.
 ```python
 def next_largest(num):
     assert isinstance(num, int)
+    assert num >= 0
     
     num = str(num)
     L = N = len(num)

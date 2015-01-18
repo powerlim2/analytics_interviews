@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_Algorithm/13_/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_Algorithm/13_/README.md" afterPath="$PROJECT_DIR$/Python_Algorithm/13_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
@@ -94,8 +94,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04347826" vertical-offset="195" max-vertical-offset="915">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2826087" vertical-offset="195" max-vertical-offset="930">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -529,12 +529,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00017" summary="Stat Interview Question">
-      <created>1420332627244</created>
-      <option name="number" value="00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1420332627244</updated>
-    </task>
     <task id="LOCAL-00018" summary="Stat Interview Question">
       <created>1420333371335</created>
       <option name="number" value="00018" />
@@ -823,7 +817,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421542990232</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Python Algorithm Q13">
+      <created>1421554900903</created>
+      <option name="number" value="00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1421554900903</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -893,7 +893,8 @@
     <MESSAGE value="String Manipulation Python" />
     <MESSAGE value="First Unique Character Question Python Algorithm" />
     <MESSAGE value="Python Algorithm Q12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Algorithm Q12" />
+    <MESSAGE value="Python Algorithm Q13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Algorithm Q13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1197,8 +1198,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04347826" vertical-offset="195" max-vertical-offset="915">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2826087" vertical-offset="195" max-vertical-offset="930">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           <folding />
         </state>
       </provider>
