@@ -50,13 +50,13 @@ FROM (
     SELECT
         member_id, page_key, page_sequence
     FROM
-        MEMBER_PAGE
+        Pageview_Event_Logging
 ) MEMBER
 JOIN (
     SELECT
         member_id, max(page_sequence) as last_page
     FROM
-        MEMBER_PAGE
+        Pageview_Event_Logging
     GROUP BY member_id
 ) PAGE
 ON MEMBER.member_id = PAGE.member_id AND MEMBER.last_page = PAGE.page_sequence
