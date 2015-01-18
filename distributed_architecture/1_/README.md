@@ -3,8 +3,6 @@
 ## Map Reduce Question
 
 
-### Question
-
 Using distributed architecture (Hadoop/Spark), write a program/pseudo-code to find the number of distinct names that start with the same letter.
 
 * Example:
@@ -16,7 +14,7 @@ Output: [(A,1), (P, 1), (R, 2)]
 ```
 
 
-### Answer
+## Answer
 
 The following answer is to use the Mapreduce in Hadoop. We can find the number of distinct names that start with the same letter with
 a single Mapreduce step. 
@@ -44,9 +42,11 @@ a single Mapreduce step.
  
 # Reduce Stage Output - Final Output
 
-- Ignore the value from Shuffle Stage Output.
-- Only take the key from the Shuffle Stage output and build a hashtable with (first character of name, value++)
+1 Ignore the value from Shuffle Stage Output.
+2 Only take the key from the Shuffle Stage output and build a hashtable with <first character of name, value++>
+3 Take the keys from the hashtable and sort them and print out the <key, value> pairs
 
- [(R, 2), (A, 1), (P, 1)]
+
+ [(A, 1), (P, 1), (R, 2)]
 ```
 
