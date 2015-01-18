@@ -31,8 +31,9 @@ def next_largest(num):
     for i in xrange(len(Snum)-2, -1, -1):
         if Snum[i] < Snum[i+1]:
             tmp = sorted(Snum[i:])
-            next = tmp.pop(tmp.index(sorted(set(Snum[i:]))[1]))
-            return int(Snum[:i] + next + ''.join(tmp))
+            next_unique = sorted(set(Snum[i:]))[1]
+            mid = tmp.pop(tmp.index(next_unique))
+            return int(Snum[:i] + mid + ''.join(tmp))
             
     return num
 
