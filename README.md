@@ -53,7 +53,8 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 9.  Is string `C` a complete ordered shuffle of string `A` and string `B`?
 10. Find the largest continuous sum in the following array of positive and negative integers.
 11. Find the first non-repeated (unique) alphabet character in the given string.
-
+12. Calculate approximated square rooted integer value given a non-negative integer
+13. Find the next largest integer with the same digits
 
 ## Modeling and Analysis Questions
 
