@@ -36,7 +36,7 @@ def next_largest(num):
         if int(num[i]) >= int(num[i+1]):
             i -= 1
         else:
-            return int(num[:i] + num[L-1] + "".join(sorted(num[i:-1])))
+            return int(num[:i] + num[i+1] + "".join(sorted(num[i] + num[i+2:])))
         N -= 1
     
     return int(num)
