@@ -3,8 +3,7 @@ Algorithm Question In Python
 
 ## Question
 
-
-Write a function to calculate approximated square rooted integer value given a non-negative integer.
+**Write a function to calculate approximated square rooted integer value given a non-negative integer.**
 
 - Example
 ```
@@ -22,6 +21,7 @@ SQRT_FLOOR(16) will return 4
 ```
 
 Notes:
+
 1. The input number will be any non-negative integers.
 2. You cannot use x ** (0.5) approach to calculate Square rooted value of integer.
 
@@ -114,4 +114,26 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+output:
+
+```
+SQRT_FLOOR(0) will return 0
+SQRT_FLOOR(1) will return 1
+SQRT_FLOOR(2) will return 1
+SQRT_FLOOR(3) will return 1
+SQRT_FLOOR(4) will return 2
+SQRT_FLOOR(5) will return 2
+SQRT_FLOOR(6) will return 2
+SQRT_FLOOR(7) will return 2
+SQRT_FLOOR(8) will return 2
+SQRT_FLOOR(9) will return 3
+SQRT_FLOOR(10) will return 3
+SQRT_FLOOR(11) will return 3
+SQRT_FLOOR(12) will return 3
+SQRT_FLOOR(13) will return 3
+SQRT_FLOOR(14) will return 3
+SQRT_FLOOR(15) will return 3
+SQRT_FLOOR(16) will return 4
 ```
