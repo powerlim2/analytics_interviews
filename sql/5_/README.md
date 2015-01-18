@@ -48,12 +48,12 @@ SELECT
     MEMBER.page_key as page_key 
 FROM (
     SELECT
-            member_id, page_key, page_sequence
-        FROM
-            MEMBER_PAGE
+        member_id, page_key, page_sequence
+    FROM
+        MEMBER_PAGE
 ) MEMBER
 JOIN (
-     SELECT
+    SELECT
         member_id, max(page_sequence) as last_page
     FROM
         MEMBER_PAGE
@@ -61,5 +61,6 @@ JOIN (
 ) PAGE
 ON MEMBER.member_id = PAGE.member_id AND MEMBER.last_page = PAGE.page_sequence
 ```
+
 
 
