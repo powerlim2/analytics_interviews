@@ -40,7 +40,7 @@ Expected Output:
 6   Search
 ```
 
-## Answer
+### Answer
 
 ```sql
 SELECT
@@ -63,4 +63,49 @@ ON MEMBER.member_id = PAGE.member_id AND MEMBER.last_page = PAGE.page_sequence
 ```
 
 
+## Question 2
+
+**Now, Answer the Question 1 using Python**
+
+* Assume we have the csv file: `Pageview_Event_Logging.csv`
+
+
+### Answer
+
+The key here is to use two dictionaries.
+
+```python
+import csv
+
+def last_page(csvfile):
+    member = {}
+    page = {}
+
+    with open(csvfile, 'r') as input:
+        input.readline()  # skip title
+        
+        for line in csv.reader(input):
+            id = line[0]
+            if member.has_key(id):
+                if member.get(id) < line[2]:
+                    member[id] = line[2]
+                    page[id] = line[1]
+            
+            else:
+                member[id] = line[2]
+                page[id] = line[1]
+    
+    return page
+
+
+def main():
+    lastP = last_page("Pageview_Event_Logging.csv")
+    
+    for k, v in lastP.iteritems():
+        print "%s\t%s" % (k, v)
+
+
+if __name__ == "__main__":
+    main()
+```
 
