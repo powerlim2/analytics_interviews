@@ -1,9 +1,8 @@
 # Analytics SQL Question
 
-
-```
 Pageview Event Logging:
 
+```
 member_id   page_key    page_sequence
 1   Home    1
 1   Profile 2
