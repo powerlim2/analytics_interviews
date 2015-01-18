@@ -28,7 +28,7 @@ def next_largest(num):
     
     Snum = str(num)
     
-    for i in range(len(Snum)-2, -1, -1):
+    for i in xrange(len(Snum)-2, -1, -1):
         if Snum[i] < Snum[i+1]:
             tmp = sorted(Snum[i:])
             next = tmp.pop(tmp.index(sorted(set(Snum[i:]))[1]))

@@ -97,8 +97,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Algorithm/13_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74127907" vertical-offset="0" max-vertical-offset="885">
-              <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.6729651" vertical-offset="17" max-vertical-offset="885">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -556,12 +556,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00022" summary="Updated Stat question">
-      <created>1420359480849</created>
-      <option name="number" value="00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1420359480849</updated>
-    </task>
     <task id="LOCAL-00023" summary="Updated Stat question">
       <created>1420359945611</created>
       <option name="number" value="00023" />
@@ -850,7 +844,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421599533235</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Python Algorithm Q13">
+      <created>1421600903695</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1421600903695</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1356,8 +1356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Algorithm/13_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74127907" vertical-offset="0" max-vertical-offset="885">
-          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.6729651" vertical-offset="17" max-vertical-offset="885">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
           <folding />
         </state>
       </provider>
