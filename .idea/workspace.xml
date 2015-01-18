@@ -97,8 +97,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_Algorithm/13_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6511628" vertical-offset="62" max-vertical-offset="900">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.10901163" vertical-offset="0" max-vertical-offset="900">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -556,12 +556,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00024" summary="Updated Stat question">
-      <created>1420360100112</created>
-      <option name="number" value="00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1420360100112</updated>
-    </task>
     <task id="LOCAL-00025" summary="Updated Stat question">
       <created>1420360482728</created>
       <option name="number" value="00025" />
@@ -850,7 +844,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421604746755</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Python Algorithm Q13">
+      <created>1421619728970</created>
+      <option name="number" value="00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1421619728970</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1356,8 +1356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_Algorithm/13_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6511628" vertical-offset="62" max-vertical-offset="900">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.10901163" vertical-offset="0" max-vertical-offset="900">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
           <folding />
         </state>
       </provider>

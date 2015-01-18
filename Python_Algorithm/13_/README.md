@@ -3,7 +3,7 @@ Algorithm Question In Python
 
 ## Question
 
-**Write a function to find the next largest integer with the same digits **
+**Write a function to find the next largest integer with the same digits**
 
 
 * For example:
