@@ -1,7 +1,7 @@
 # Analytics SQL Question
 
 
-## Background Data
+### Background Data
 
 * Table Name: content_action
 * Fields:
@@ -15,12 +15,14 @@
 Examples: Forum RSS feeds, Facebook feeds, Tweets, etc.
 
 
-## Find the distribution of comments per unique original story?
+## Question
+
+**Find the distribution of comments per unique original story?**
 
 
-### The expected outcome (given):
+The expected outcome (given):
 
-
+```
 	Comment_Count     Number of Stories    Original Story Type
 	1                      344                  Status_Update
 	1                      211                     Photo
@@ -28,10 +30,10 @@ Examples: Forum RSS feeds, Facebook feeds, Tweets, etc.
 	2                      85                     
 	2
 	...
+```
 
 
-
-### My Answer:
+## My Answer:
 
 
 ```SQL
