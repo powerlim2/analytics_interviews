@@ -24,6 +24,7 @@ The expected outcome (given):
 
 ```
 	Comment_Count     Number of Stories    Original Story Type
+--------------------------------------------------------------------
 	1                      344                  Status_Update
 	1                      211                     Photo
 	1                      105                      Share
