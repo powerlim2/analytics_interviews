@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/2_/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Math/README.md" afterPath="$PROJECT_DIR$/Math/1_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/2_/Thomas_Bayes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Math/2_/README.md" afterPath="$PROJECT_DIR$/Math/2_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
@@ -70,10 +69,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80377907" vertical-offset="782" max-vertical-offset="1485">
+            <state vertical-scroll-proportion="-19.068966" vertical-offset="782" max-vertical-offset="1485">
               <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
@@ -109,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Math/2_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.448276" vertical-offset="0" max-vertical-offset="480">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5886628" vertical-offset="0" max-vertical-offset="688">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -223,8 +222,8 @@
         <option value="$PROJECT_DIR$/Python_Algorithm/13_/README.md" />
         <option value="$PROJECT_DIR$/distributed_architecture/1_/README.md" />
         <option value="$PROJECT_DIR$/sql/5_/README.md" />
-        <option value="$PROJECT_DIR$/Math/2_/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Math/2_/README.md" />
       </list>
     </option>
   </component>
@@ -613,12 +612,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00037" summary="add modeling Q4">
-      <created>1420443409761</created>
-      <option name="number" value="00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1420443409761</updated>
-    </task>
     <task id="LOCAL-00038" summary="add modeling Q4">
       <created>1420443614650</created>
       <option name="number" value="00038" />
@@ -907,7 +900,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421625153850</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Math Q2 Uploaded">
+      <created>1421684674736</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1421684674736</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -980,7 +979,8 @@
     <MESSAGE value="Python Algorithm Q13" />
     <MESSAGE value="Mapreduce Question Uploaded" />
     <MESSAGE value="SQL Q5 Uploaded" />
-    <option name="LAST_COMMIT_MESSAGE" value="SQL Q5 Uploaded" />
+    <MESSAGE value="Math Q2 Uploaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math Q2 Uploaded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1435,10 +1435,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/2_/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.448276" vertical-offset="0" max-vertical-offset="480">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="-19.068966" vertical-offset="782" max-vertical-offset="1485">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1446,10 +1446,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Math/2_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80377907" vertical-offset="782" max-vertical-offset="1485">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5886628" vertical-offset="0" max-vertical-offset="688">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>

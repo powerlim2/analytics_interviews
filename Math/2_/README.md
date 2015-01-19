@@ -1,8 +1,8 @@
 # Simple Math Questions
 
 **Disclaimer:** This question is not that I received from my interviews. I found this question online and thought
-it is a pretty good question for analytics positions. Generally speaking, probability questions are always good!
-The author who posted this question online mentioned that he received this question from Amazon.com
+it is a pretty good question for analytics positions. In general, probability questions are always welcome!
+The author who posted this question online mentioned that he received this question from his Amazon.com interview.
 
 
 ## Question:
@@ -22,5 +22,6 @@ The author who posted this question online mentioned that he received this quest
 
 Check out [this link](http://stats.stackexchange.com/questions/86015/amazon-interview-question-probability-of-2nd-interview).
 
-(HINT: Thomas Bayes)
+(HINT)
+![Thomas_Bayes](Thomas_Bayes.gif)
 
