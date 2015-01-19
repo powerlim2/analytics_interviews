@@ -85,6 +85,7 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
 ### Simple Math
 
 1. Find all integer values in X that satisfies an inequality equation.
+2. Calculate the probability you will receive a second interview given you felt good at your first interview?
 
 
 ### Linux Commands
