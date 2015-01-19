@@ -20,8 +20,8 @@ The author who posted this question online mentioned that he received this quest
 
 ## Answer:
 
-Check out [this link](http://stats.stackexchange.com/questions/86015/amazon-interview-question-probability-of-2nd-interview).
+HINT:
 
-(HINT)
 ![Thomas_Bayes](Thomas_Bayes.gif)
 
+To see the complete answer, Check out [this link](http://stats.stackexchange.com/questions/86015/amazon-interview-question-probability-of-2nd-interview).

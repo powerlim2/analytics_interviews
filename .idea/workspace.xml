@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Math/2_/Thomas_Bayes.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Math/2_/README.md" afterPath="$PROJECT_DIR$/Math/2_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -612,12 +611,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00038" summary="add modeling Q4">
-      <created>1420443614650</created>
-      <option name="number" value="00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1420443614650</updated>
-    </task>
     <task id="LOCAL-00039" summary="add modeling Q4">
       <created>1420512122265</created>
       <option name="number" value="00039" />
@@ -906,7 +899,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421684674736</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Math Q2 Uploaded">
+      <created>1421684905995</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1421684905995</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
