@@ -47,7 +47,7 @@ FROM (
   FROM content_action
   GROUP BY content_id, content_type
 ) ORI
-LEFT JOIN (
+JOIN (
   SELECT
     target_id, 
     count(*) as num_comments_for_post
