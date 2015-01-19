@@ -84,8 +84,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sql/1_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56686044" vertical-offset="0" max-vertical-offset="1020">
-              <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.86918604" vertical-offset="332" max-vertical-offset="1020">
+              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -590,12 +590,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00042" summary="Modify PA Q8&#10;">
-      <created>1421008260931</created>
-      <option name="number" value="00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1421008260931</updated>
-    </task>
     <task id="LOCAL-00043" summary="Complete Ordered Shuffle">
       <created>1421012957941</created>
       <option name="number" value="00043" />
@@ -884,7 +878,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421686405627</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="SQL Q1 modified.">
+      <created>1421686770046</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1421686770046</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1426,8 +1426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/1_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56686044" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="26" column="68" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.86918604" vertical-offset="332" max-vertical-offset="1020">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding />
         </state>
       </provider>
