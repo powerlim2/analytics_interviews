@@ -55,7 +55,7 @@ LEFT JOIN (
   WHERE target_id IS NOT NULL
   GROUP BY target_id 
 ) STR
-ON STR.target_id = ORI.content_id
+ON ORI.content_id = STR.target_id
 GROUP BY Comment_Count, Original_Story_Type
 ORDER BY Comment_Count DESC
 ```
