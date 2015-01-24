@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="SQL Q1 modified.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/6_/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/6_/README.md" afterPath="$PROJECT_DIR$/sql/6_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
@@ -108,8 +107,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sql/6_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37063953" vertical-offset="0" max-vertical-offset="735">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.84738374" vertical-offset="47" max-vertical-offset="735">
+              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -608,12 +607,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00047" summary="Update Fibonacci Sequence Answer">
-      <created>1421028129360</created>
-      <option name="number" value="00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1421028129360</updated>
-    </task>
     <task id="LOCAL-00048" summary="Update Fibonacci Sequence Answer">
       <created>1421028951167</created>
       <option name="number" value="00048" />
@@ -902,7 +895,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421688147657</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="SQL Q6 Uploaded.">
+      <created>1422139560296</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1422139560296</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -951,7 +950,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Changes in description" />
     <MESSAGE value="Upload Amazon SQL questions" />
     <MESSAGE value="Stat Interview Question is added" />
     <MESSAGE value="Math/ Stat Interview Question" />
@@ -976,7 +974,8 @@
     <MESSAGE value="SQL Q5 Uploaded" />
     <MESSAGE value="Math Q2 Uploaded" />
     <MESSAGE value="SQL Q1 modified." />
-    <option name="LAST_COMMIT_MESSAGE" value="SQL Q1 modified." />
+    <MESSAGE value="SQL Q6 Uploaded." />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL Q6 Uploaded." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1417,17 +1416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sql/5_/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.448276" vertical-offset="0" max-vertical-offset="1770">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.724138" vertical-offset="137" max-vertical-offset="1530">
@@ -1439,10 +1427,21 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sql/5_/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.448276" vertical-offset="0" max-vertical-offset="1770">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sql/6_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37063953" vertical-offset="0" max-vertical-offset="735">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.84738374" vertical-offset="47" max-vertical-offset="735">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
           <folding />
         </state>
       </provider>

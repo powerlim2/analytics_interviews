@@ -29,7 +29,7 @@ member_id   date    Purchase
 ## Answer
 
 
-```
+```sql
 SELECT
     X.member_id as member_id,
     X.date as date,
@@ -38,6 +38,6 @@ FROM Purchase_history X
 JOIN Purchase_history Y
 ON X.member_id = Y.member_id
 WHERE X.date >= Y.date
-GROUP BY member_id
+GROUP BY member_id, date
 ORDER BY member_id, date
 ```
