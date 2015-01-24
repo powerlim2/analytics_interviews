@@ -24,6 +24,8 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
     - Identify months in which revenue exceeded $1,000
     - Calculate how much revenue was earned from customers in the US, Canada, and UKNOWN
 5. What was the last page that each member visited?
+6. Cumulative purchase amount for each member by date?
+
 
 ### Python (general)
 
