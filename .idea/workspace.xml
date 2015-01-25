@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/6_/README.md" afterPath="$PROJECT_DIR$/sql/6_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="analytics_interviews.iws" />
@@ -107,8 +106,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sql/6_/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84738374" vertical-offset="47" max-vertical-offset="735">
-              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.3895349" vertical-offset="47" max-vertical-offset="735">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -607,12 +606,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00048" summary="Update Fibonacci Sequence Answer">
-      <created>1421028951167</created>
-      <option name="number" value="00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1421028951167</updated>
-    </task>
     <task id="LOCAL-00049" summary="Update Fibonacci Sequence Answer">
       <created>1421030461848</created>
       <option name="number" value="00049" />
@@ -901,7 +894,13 @@
       <option name="project" value="LOCAL" />
       <updated>1422139560296</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="SQL Q6 Modified.">
+      <created>1422139677411</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1422139677411</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -950,7 +949,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Upload Amazon SQL questions" />
     <MESSAGE value="Stat Interview Question is added" />
     <MESSAGE value="Math/ Stat Interview Question" />
     <MESSAGE value="Stat Interview Question" />
@@ -975,7 +973,8 @@
     <MESSAGE value="Math Q2 Uploaded" />
     <MESSAGE value="SQL Q1 modified." />
     <MESSAGE value="SQL Q6 Uploaded." />
-    <option name="LAST_COMMIT_MESSAGE" value="SQL Q6 Uploaded." />
+    <MESSAGE value="SQL Q6 Modified." />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL Q6 Modified." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1440,8 +1439,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/6_/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84738374" vertical-offset="47" max-vertical-offset="735">
-          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.3895349" vertical-offset="47" max-vertical-offset="735">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding />
         </state>
       </provider>
