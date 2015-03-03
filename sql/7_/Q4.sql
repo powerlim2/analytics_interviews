@@ -1,6 +1,10 @@
 -- Question 4 Answer
 
 
+-- The first thing is to define what is the appropriate measure for comparing the app usage between Youtube and Whatsapp.
+-- 'Launch counts' could introduce a bias since whatsapp designed to launch more frequently than youtube.
+
+
 SELECT
     COL1.num_heavy_youtuber as num_heavy_youtuber,
     COL2.num_newcomers as num_newcomers,
