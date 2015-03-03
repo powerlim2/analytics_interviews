@@ -1,7 +1,7 @@
 # Analytics SQL Question
 
 ```
-Table: daily_app_usage_20150304 (~500 million rows)
+Table: daily_app_usage_20150304
 Fields: 
     1. device_id: string (unique device identification number)
     2. resume_time: timestamp (application start time)                                 
@@ -43,7 +43,19 @@ com.facebook.katana        2900000
 
 ## Question 2
 
-**What is the distribution of device age for those, which used `com.motorola.migrate` (the motorola migrate) app on March 4th, 2015?**
+**What is the average usage time (in seconds) for each motorola app on March 4th, 2015?**
+
+Expected Outcome:
+```
+com.motorola.MotGallery2    35
+com.motorola.camera         11
+com.motorola.migrate        3540
+...
+```
+
+## Question 3
+
+**What is the distribution of device age (in days) for the ones, which used `com.motorola.migrate` (the motorola migrate) app on March 4th, 2015?**
 
 Expected Outcome:
 ```
@@ -56,9 +68,13 @@ Expected Outcome:
 ...
 ```
 
-# Question 3
+Here the first column indicates the device age and the second column indicates the number of devices.
 
 
+# Question 4
+
+**On March 4th, 2015, among those people who have recently activated their device (device age < 14 days),
+How many people use youtube `com.google.android.youtube` more than Whatsapp `com.whatsapp`?**
 
 
 
