@@ -1,4 +1,4 @@
-# Analytics SQL Question
+# Analytics SQL (BigQuery) Question
 
 ```
 Table: daily_app_usage_20150304

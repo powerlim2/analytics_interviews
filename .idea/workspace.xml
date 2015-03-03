@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c849971e-9c75-4a1c-b5de-b8e3ce42fe0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/7_/Q2.sql" afterPath="$PROJECT_DIR$/sql/7_/Q2.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/7_/Q3.sql" afterPath="$PROJECT_DIR$/sql/7_/Q3.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/7_/Q4.sql" afterPath="$PROJECT_DIR$/sql/7_/Q4.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/7_/README.md" afterPath="$PROJECT_DIR$/sql/7_/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -126,8 +123,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78488374" vertical-offset="90" max-vertical-offset="1365">
-              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+              <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -558,12 +555,6 @@
       <option name="number" value="Default" />
       <updated>1419822999024</updated>
     </task>
-    <task id="LOCAL-00055" summary="Max Continuous Sum">
-      <created>1421037199103</created>
-      <option name="number" value="00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1421037199103</updated>
-    </task>
     <task id="LOCAL-00056" summary="Max Continuous Sum">
       <created>1421039626755</created>
       <option name="number" value="00056" />
@@ -852,7 +843,13 @@
       <option name="project" value="LOCAL" />
       <updated>1425415187939</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="SQL Q7 Upload.">
+      <created>1425418471041</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1425418471041</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1358,8 +1355,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78488374" vertical-offset="90" max-vertical-offset="1365">
-          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
