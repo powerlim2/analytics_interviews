@@ -74,8 +74,10 @@ Here the first column indicates the device age and the second column indicates t
 # Question 4
 
 **On March 4th, 2015, among those people who have recently activated their device (device age < 14 days),
-How many people use youtube `com.google.android.youtube` more than Whatsapp `com.whatsapp`?**
+How many people (proportion) use youtube `com.google.android.youtube` more than Whatsapp `com.whatsapp`?**
 
+Expected Outcome:
+```
+500   8500   .0588
+```
 
-
- 
