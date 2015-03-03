@@ -7,7 +7,7 @@ SELECT
 FROM (
     SELECT 
         device_id,
-        DATEDIFF(TIMESTAMP(activation_date), TIMESTAMP("2015-03-04")) as device_age
+        DATEDIFF(TIMESTAMP("2015-03-04"), TIMESTAMP(activation_date)) as device_age
     FROM 
         daily_app_usage_20150304
     WHERE 

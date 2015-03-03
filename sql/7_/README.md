@@ -35,9 +35,10 @@ example (first 5 rows):
 
 Expected Outcome:
 ```
-com.motorola.MotGallery2   4500000
-com.android.chrome         3000000
-com.facebook.katana        2900000
+com.google.android.googlequicksearchbox     12300000
+com.motorola.MotGallery2                    4500000
+com.android.chrome                          3000000
+com.facebook.katana                         2900000
 ...
 ```
 
@@ -78,7 +79,7 @@ how many people (proportion) use youtube `com.google.android.youtube` more than 
 
 Expected Outcome:
 ```
-500   8500   .0588
+50000   850000   .0588
 ```
 
 - The first column is the number of devices that actually used youtube more than whatsapp, the second column is the number of

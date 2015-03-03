@@ -5,7 +5,7 @@
 
 SELECT
     app_package_name,
-    AVG(dur_secs) as avg_dur_secs
+    INTEGER(ROUND(AVG(dur_secs))) as avg_dur_secs
 FROM (
     SELECT 
         app_package_name,

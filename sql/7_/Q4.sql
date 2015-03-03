@@ -11,13 +11,13 @@ FROM (
     FROM (
         SELECT
             device_id,
-            SUM(IF(app_package_name = 'com.google.android.youtube', TIMESTAMP_TO_SEC(pause_time) - TIMESTAMP_TO_SEC(resume_time), 0)) as youtube_dur
+            SUM(IF(app_package_name = 'com.google.android.youtube', TIMESTAMP_TO_SEC(pause_time) - TIMESTAMP_TO_SEC(resume_time), 0)) as youtube_dur,
             SUM(IF(app_package_name = 'com.whatsapp', TIMESTAMP_TO_SEC(pause_time) - TIMESTAMP_TO_SEC(resume_time), 0)) as whatsapp_dur
         FROM 
             daily_app_usage_20150304
         WHERE 
             DATE(resume_time) = '2015-03-04' OR DATE(pause_time) = '2015-03-04'
-            AND DATEDIFF(TIMESTAMP(activation_date), TIMESTAMP("2015-03-04")) < 14
+            AND DATEDIFF(TIMESTAMP("2015-03-04"), TIMESTAMP(activation_date)) < 14
             AND app_package_name IN ('com.google.android.youtube', 'com.whatsapp')  -- this is optional
         GROUP BY
             device_id
@@ -35,7 +35,7 @@ CROSS JOIN (
             daily_app_usage_20150304
         WHERE 
             DATE(resume_time) = '2015-03-04' OR DATE(pause_time) = '2015-03-04'
-            AND DATEDIFF(TIMESTAMP(activation_date), TIMESTAMP("2015-03-04")) < 14
+            AND DATEDIFF(TIMESTAMP("2015-03-04"), TIMESTAMP(activation_date)) < 14
         GROUP BY
             device_id
     )
