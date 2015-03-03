@@ -25,6 +25,11 @@ You are also welcome to email me for any questions or suggestions. Enjoy!
     - Calculate how much revenue was earned from customers in the US, Canada, and UKNOWN
 5. What was the last page that each member visited?
 6. Cumulative purchase amount for each member by date?
+7. 4 analysis questions:
+    - what are the top 10 most popular apps?
+    - what is the average usage time for each app?
+    - what is the distribution of device age for the ones, which used migrate app?
+    - Among the people who have activated their device (age < 14), how many people use youtube more than whatsapp?
 
 
 ### Python (general)

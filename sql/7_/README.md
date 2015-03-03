@@ -31,7 +31,7 @@ example (first 5 rows):
 
 ## Question 1
 
-**On March 4th, 2015, what is the top 10 most popular app and how many people used them?**
+**On March 4th, 2015, what are the top 10 most popular apps and how many people used them?**
 
 Expected Outcome:
 ```
