@@ -74,7 +74,7 @@ Expected Outcome:
 ## Question 4
 
 **On March 4th, 2015, among those people who have recently activated their device (device age < 14 days),
-How many people (proportion) use youtube `com.google.android.youtube` more than Whatsapp `com.whatsapp`?**
+how many people (proportion) use youtube `com.google.android.youtube` more than Whatsapp `com.whatsapp`?**
 
 Expected Outcome:
 ```
