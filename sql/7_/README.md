@@ -68,10 +68,10 @@ Expected Outcome:
 ...
 ```
 
-Here the first column indicates the device age and the second column indicates the number of devices.
+- Here the first column indicates the device age and the second column indicates the number of devices.
 
 
-# Question 4
+## Question 4
 
 **On March 4th, 2015, among those people who have recently activated their device (device age < 14 days),
 How many people (proportion) use youtube `com.google.android.youtube` more than Whatsapp `com.whatsapp`?**
@@ -81,3 +81,5 @@ Expected Outcome:
 500   8500   .0588
 ```
 
+- The first column is the number of devices that actually used youtube more than whatsapp, the second column is the number of
+devices that their device age is less than 14 days, the third column is just a proportion.
